@@ -1,0 +1,93 @@
+{
+  "ticketCategoryId": "1511435734987571401",
+  "logChannelId": "1511435792571171051",
+  "reviewChannelId": "1511435792571171051",
+  "staffRoleId": "1511425768071368774",
+  "transcriptChannelId": "1510949893487726613",
+  "ticketPanelChannelId": "1511435791362949212",
+  "ticketCounter": 7,
+  "openTickets": {
+    "1511402601164443790": {
+      "channelId": "1511402601164443790",
+      "openerId": "1387511832440471695",
+      "openerTag": "filippoberti112",
+      "type": "Supporto",
+      "priority": null,
+      "claimedBy": null,
+      "claimedById": null,
+      "openedAt": "2026-06-02T16:14:20.228Z"
+    },
+    "1511404026179223642": {
+      "channelId": "1511404026179223642",
+      "openerId": "1463123472925589607",
+      "openerTag": "neil78_47",
+      "type": "Altro",
+      "priority": null,
+      "claimedBy": "neil78_47",
+      "claimedById": "1463123472925589607",
+      "openedAt": "2026-06-02T16:19:59.937Z"
+    }
+  },
+  "closedTickets": {
+    "1511375446854602763": {
+      "channelId": "1511375446854602763",
+      "openerId": "1387511832440471695",
+      "openerTag": "filippoberti112",
+      "type": "Acquisti",
+      "priority": null,
+      "claimedBy": "filippoberti112",
+      "claimedById": "1387511832440471695",
+      "openedAt": "2026-06-02T14:26:25.706Z",
+      "closedAt": "2026-06-02T14:27:37.212Z",
+      "closedBy": "filippoberti112"
+    },
+    "1511388095440883894": {
+      "channelId": "1511388095440883894",
+      "openerId": "1387511832440471695",
+      "openerTag": "filippoberti112",
+      "type": "Candidature",
+      "priority": "Media",
+      "claimedBy": "filippoberti112",
+      "claimedById": "1387511832440471695",
+      "openedAt": "2026-06-02T15:16:41.923Z",
+      "closedAt": "2026-06-02T15:29:43.991Z",
+      "closedBy": "filippoberti112"
+    },
+    "1511402084103225495": {
+      "channelId": "1511402084103225495",
+      "openerId": "1463123472925589607",
+      "openerTag": "neil78_47",
+      "type": "Altro",
+      "priority": "Media",
+      "claimedBy": null,
+      "claimedById": null,
+      "openedAt": "2026-06-02T16:12:16.926Z",
+      "closedAt": "2026-06-02T16:19:46.981Z",
+      "closedBy": "neil78_47"
+    },
+    "1511770165061357780": {
+      "channelId": "1511770165061357780",
+      "openerId": "1399315241564897330",
+      "openerTag": "alex_569188",
+      "type": "Partnership",
+      "priority": null,
+      "claimedBy": null,
+      "claimedById": null,
+      "openedAt": "2026-06-03T16:34:54.295Z",
+      "closedAt": "2026-06-03T18:12:41.254Z",
+      "closedBy": "filippoberti112"
+    },
+    "1511764761359159427": {
+      "channelId": "1511764761359159427",
+      "openerId": "1363959358819663925",
+      "openerTag": "imnotjpa_",
+      "type": "Altro",
+      "priority": null,
+      "claimedBy": null,
+      "claimedById": null,
+      "openedAt": "2026-06-03T16:13:25.984Z",
+      "closedAt": "2026-06-03T18:47:04.123Z",
+      "closedBy": "imnotjpa_"
+    }
+  }
+}
